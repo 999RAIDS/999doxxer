@@ -1,7 +1,3 @@
-# Version 1.1
-# coded By botcoder
-# copyright(please dont use my code without lience)
-from platform import system
 import os
 import time
 import random
